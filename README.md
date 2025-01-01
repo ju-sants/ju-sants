@@ -27,4 +27,4 @@ Entendimento, mineração, preparação e modelagem de dados para predição de 
 - **Ecossistema**: Microsoft Fabric, Synapse
 
 ## 🙏 Vamos Colaborar?
-Estou sempre aberto a trocar ideias e criar soluções. Conecte-se no [LinkedIn](https://linkedin.com/in/).
+Estou sempre aberto a trocar ideias e criar soluções. Conecte-se no [LinkedIn](https://linkedin.com/in/juan-bispo-data-scyentist).
